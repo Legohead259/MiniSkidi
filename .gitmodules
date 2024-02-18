@@ -1,0 +1,9 @@
+[submodule "ECAD"]
+	path = ECAD
+	url = https://github.com/Legohead259/MiniSkidi-ECAD
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/Legohead259/MiniSkidi-Firmware
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/Legohead259/MiniSkidi-ROS2
